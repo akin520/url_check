@@ -1,0 +1,6 @@
+django==1.10.1
+msgpack-rpc-python
+beanstalkc
+msgpack
+redis
+suds
