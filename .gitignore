@@ -97,5 +97,12 @@ ENV/
 # mkdocs documentation
 /site
 
+*.sqlite3
+sendmail.py
+sendsms.py
+
 # mypy
 .mypy_cache/
+web/log/*
+agent/log/*
+alarm/log/*
