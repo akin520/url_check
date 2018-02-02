@@ -1,0 +1,9 @@
+server: "server234"
+region: "bj-cnc"
+process: 4
+connecttimeout: 10
+timeout: 20
+debug: True
+rpcserver:
+    ip: 127.0.0.1
+    port: 18800
